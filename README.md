@@ -6,7 +6,7 @@ This repository will contain the official implementation of the paper: _Posture 
 
 ## Overview
 Classical Indian dance forms like **Bharatanatyam** present rich, codified movement vocabularies that are challenging to analyze computationally due to rhythmic complexity and semantic depth.  
-In this work, we propose the **first systematic framework** for posture-level deduplication in **Jathiswaram**, a core non-narrative (nritta) limbic item of Bharatanatyam.
+In this work, we propose the **first systematic framework** for posture-level extraction, deduplication and analysis in **Jathiswaram**, a core dance in a Bharatanatyam recital.
 
 <img width="1180" height="576" alt="image" src="https://github.com/user-attachments/assets/fc865a19-cf03-4784-819d-a63fc8c31790" />
 
