@@ -5,8 +5,11 @@ This repository will contain the official implementation of the paper: _Posture 
 **Status**: Under Review in the _4th International Conference on Machine Learning and Data Engineering (ICMLDE 2025), Elsevier_. [[Link]](https://www.icmlde.org/)
 
 ## Overview
-Classical Indian dance forms like **Bharatanatyam** present rich, codified movement and expression vocabularies that are challenging to analyze computationally due to rhythmic complexity and semantic depth. Moreover, the nuances hidden in each gesture/movement convey rich meanings to the audience based on context, movement combinations and countenance while performing. This requires precision in motion segmentation, decoding and generation along with a large dataset that prevents overfitting.
+Classical Indian dance forms like **Bharatanatyam** present rich, codified movement and expression vocabularies that are challenging to analyze computationally due to rhythmic complexity and semantic depth.
+
+Moreover, the nuances hidden in each gesture/movement convey rich meanings to the audience based on context, movement combinations and countenance held while performing. This requires precision in motion segmentation, gesture decoding as well as generation, along with large datasets to ensure generalizability.
 In this work, we propose the **first systematic framework** for posture-level extraction, deduplication and analysis in **Jathiswaram**, a core dance in a Bharatanatyam recital.
+
 
 <img width="1180" height="576" alt="image" src="https://github.com/user-attachments/assets/fc865a19-cf03-4784-819d-a63fc8c31790" />
 
